@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1 ,CANAL 27 GUATEMALA
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/a940b63794da45e7902fa9c5c1dbd567/chunklist_b4628000.m3u8?p=79&s=1663735214&e=1663735334&h=476e137ec24643458718c8960f58d980
+#EXTINF:-1 ,CANAL 65 TV ELHOIM
+https://panel.streamingtv-mediacp.online:1936/tv65/tv65/chunklist_w1031988828.m3u8
+#EXTINF:-1 ,CANAL EXTREMA TV
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w1217465455.m3u8
+#EXTINF:-1 ,CANAL EBENEZER TV
+https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/chunklist_w381822391_b1128000.m3u8
+#EXTINF:-1 ,CANAL 3ABN LATINO
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/SQs/chunklist.m3u8
+#EXTINF:-1 ,CANAL TELEVIDA
+https://tls-cl.cdnz.cl/televida/live/chunklist_w1641901877.m3u8
+#EXTINF:-1 ,CANAL RHEMA TV
+https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
+#EXTINF:-1 ,CANAL PALABRA SIN LEVADURA
+https://583ed2f226ac2.streamlock.net/49/stream/chunklist_w596391865.m3u8
+#EXTINF:-1 ,CANAL EL CAMINO TV
+http://streamingcontrol.com:1935/ectv/ectv/chunklist_w1993646173.m3u8
+#EXTINF:-1 ,CANAL BETHEL
+https://streannlivebethelperu.cachefly.net/bethelperu1/bethelperu1/playlist.m3u8
+#EXTINF:-1 ,CANAL BETHEL MUSICA
+https://streannlivebethelperu.cachefly.net/bethelperu2/bethelperu2/playlist.m3u8
+#EXTINF:-1 ,CANAL MARANATHA MINISTRIES
+https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
